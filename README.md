@@ -48,7 +48,7 @@
 - 🎓 B.Tech Computer Science Engineering (AIML) @ **Manipal University Jaipur**, Class of 2028
 - 🧠 Building an **Internship Application Copilot Agent** — LangGraph-style agent loop, FastAPI, FAISS, sentence-transformers, Ollama
 - 🕹️ Director of Events @ **MASDC**, ex-Coordinator @ ACM & IEEE Student Branch
-- 🌐 Portfolio: [cookiesandcoding.in](https://cookiesandcoding.in)
+- 🌐 Portfolio:
 - 🏆 Top 15 @ GNEC Hackathon
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
