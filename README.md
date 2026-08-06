@@ -16,13 +16,13 @@
 
 ## `>_` about me
 
-- 🎓 B.Tech CSE @ **Manipal University Jaipur**, Class of 2027
+- 🎓 B.Tech CSE @ **Manipal University Jaipur**, Class of 2028
 - 🤖 building my way into an **AI/ML engineer** — one model, one bug, one coffee at a time
 - 🎮 probably one boss fight away from touching grass
 - ☕ coffee is not a beverage, it's a build dependency
 - 📚 reading more fiction than documentation lately (don't tell my professors)
 - 🌸 soft aesthetic, sharp debugging skills — pastel outside, `print()` statements inside
-- 🌐 portfolio: [cookiesandcoding.in](https://cookiesandcoding.in)
+- 🌐 portfolio: under construction
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
