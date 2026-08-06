@@ -105,30 +105,29 @@
 
 ## `>_` snapshots
 
-<p align="center"><i>a tiny gallery — swap these placeholders with your own pics anytime 🤍</i></p>
+<p align="center"><i>a tiny gallery — bits and pieces 🤍</i></p>
 
 <div align="center">
 <table>
-<tr>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/2D0A4E/C084FC?text=📷+add+photo+1" width="100%" style="border-radius: 12px;" alt="photo 1"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%202.jpg" width="100%" style="border-radius: 12px;" alt="photo 1"/>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/3B0764/A855F7?text=📷+add+photo+2" width="100%" style="border-radius: 12px;" alt="photo 2"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%203.jpg" width="100%" style="border-radius: 12px;" alt="photo 2"/>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/2D0A4E/C084FC?text=📷+add+photo+3" width="100%" style="border-radius: 12px;" alt="photo 3"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original%202.jpg" width="100%" style="border-radius: 12px;" alt="photo 3"/>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/3B0764/A855F7?text=📷+add+photo+4" width="100%" style="border-radius: 12px;" alt="photo 4"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original.jpg" width="100%" style="border-radius: 12px;" alt="photo 4"/>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/2D0A4E/C084FC?text=📷+add+photo+5" width="100%" style="border-radius: 12px;" alt="photo 5"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_3622_Original.JPG" width="100%" style="border-radius: 12px;" alt="photo 5"/>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x300/3B0764/A855F7?text=📷+add+photo+6" width="100%" style="border-radius: 12px;" alt="photo 6"/>
+<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_6780.jpeg" width="100%" style="border-radius: 12px;" alt="photo 6"/>
 </td>
 </tr>
 </table>
