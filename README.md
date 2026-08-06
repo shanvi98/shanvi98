@@ -84,12 +84,12 @@
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=shanvi98&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&icon_color=C77DFF&text_color=F5E6FF" alt="GitHub Stats"/>
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&text_color=F5E6FF" alt="Top Languages"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=shanvi98&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&icon_color=C77DFF&text_color=F5E6FF&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&text_color=F5E6FF&cache_seconds=86400" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanvi98&theme=radical&hide_border=true&background=1a0d2e&ring=B983FF&fire=C77DFF&currStreakLabel=F5E6FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=shanvi98&theme=radical&hide_border=true&background=1a0d2e&ring=B983FF&fire=C77DFF&currStreakLabel=F5E6FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -138,11 +138,11 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shanvi98&label=SYSTEM+VISITORS&color=A855F7&style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shanvi98.shanvi98&color=A855F7&style=for-the-badge)
 
 <br><br>
 
-<i>"she codes, she games, she reads — she does not do all three at once but she wants to"</i>
+<i>"powered by caffeine, curiosity, and a slightly unhinged commit history"</i>
 
 </div>
 
