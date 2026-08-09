@@ -84,9 +84,8 @@
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shanvi98&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&icon_color=C77DFF&text_color=F5E6FF" alt="GitHub Stats"/>
-
-<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&text_color=F5E6FF" alt="Top Languages"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=shanvi98&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&icon_color=C77DFF&text_color=F5E6FF&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=synthwave&hide_border=true&bg_color=1a0d2e&title_color=B983FF&text_color=F5E6FF&cache_seconds=86400" alt="Top Languages"/>
 
 <br/>
 
