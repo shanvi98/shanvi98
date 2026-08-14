@@ -84,11 +84,11 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98&hide_rank=true&show_icon=github&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shanvi98&layout=compact)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98&show_icon=github&theme=jolly)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=jolly)
 <br/>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shanvi98&theme=tokyonight)](https://github.com/shanvi98/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shanvi98&theme=jolly)](https://github.com/shanvi98/github-readme-stats-fast)
 </div>
 
 <div align="center">
