@@ -89,7 +89,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shanvi98)](https://git.io/streak-stats)
+[![Shanvi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
 
 <div align="center">
