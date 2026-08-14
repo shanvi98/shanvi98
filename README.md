@@ -89,7 +89,7 @@
 
 <br/>
 
-[![Shanvi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Shanvi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98&show_icons=true&theme=radical)](https://github.com/shanvi98/github-readme-stats-fast)
 </div>
 
 <div align="center">
