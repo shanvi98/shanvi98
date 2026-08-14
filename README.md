@@ -89,8 +89,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=shanvi98&theme=radical&hide_border=true&background=1a0d2e&ring=B983FF&fire=C77DFF&currStreakLabel=F5E6FF" alt="GitHub Streak"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shanvi98)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
