@@ -60,15 +60,15 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/shanvi98/semantic-reconcillation-engine"><img src="assets/builds/semantic-reconcillation-engine.svg" width="100%" alt="semantic-reconcillation-engine"/></a></td>
-<td width="50%"><a href="https://github.com/shanvi98/hybridrag"><img src="assets/builds/hybridrag.svg" width="100%" alt="hybridrag"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/semantic-reconcillation-engine"><img src="assets/build/semantic-reconcillation-engine.svg" width="100%" alt="semantic-reconcillation-engine"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/hybridrag"><img src="assets/build/hybridrag.svg" width="100%" alt="hybridrag"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/shanvi98/Aeropulse-pipeline"><img src="assets/builds/Aeropulse-pipeline.svg" width="100%" alt="Aeropulse-pipeline"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/Aeropulse-pipeline"><img src="assets/build/Aeropulse-pipeline.svg" width="100%" alt="Aeropulse-pipeline"/></a></td>
 <td width="50%"><a href="https://github.com/shanvi98/vireo_cx_tool1"><img src="assets/builds/vireo_cx_tool1.svg" width="100%" alt="vireo_cx_tool1"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/shanvi98/internship-copilot"><img src="assets/builds/internship-copilot.svg" width="100%" alt="internship-copilot"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/internship-copilot"><img src="assets/build/internship-copilot.svg" width="100%" alt="internship-copilot"/></a></td>
 <td width="50%"><a href="https://github.com/shanvi98/SIH"><img src="assets/builds/SIH.svg" width="100%" alt="SIH"/></a></td>
 </tr>
 </table>
