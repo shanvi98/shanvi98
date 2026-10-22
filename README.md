@@ -1,20 +1,28 @@
 <!-- ================================================================== -->
-<!--  SHANVI KUMARI — GIRL-CODED GAMER/COFFEE/CODE GITHUB README        -->
+<!--  SHANVI — PIXEL / COFFEE / CODE GITHUB README                      -->
+<!--  all art lives in /assets as hand-built, animated SVGs             -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-<!-- WAVY BANNER HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A4E,50:A855F7,100:C084FC&height=220&section=header&text=hey,%20i'm%20shanvi&fontSize=48&fontColor=F5E6FF&animation=fadeIn&fontAlignY=38&desc=cse%20student%20~%20aspiring%20ai%20engineer%20~%20perpetually%20caffeinated&descAlignY=58&descSize=17" alt="header banner"/>
+<img src="assets/hero.svg" width="100%" alt="hey, i'm shanvi — cse student, aspiring ai engineer, perpetually caffeinated"/>
 
-<!-- ANIMATED TYPING INTRO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=console.log(%22one+more+level%2C+i+promise%22)%3B;while(coffee)+%7B+code()%3B+%7D;currently%3A+xp+farming+in+a+game+%2B+in+life;plot+twist%3A+the+bug+was+a+missing+semicolon" alt="Typing SVG" />
+<br/>
+
+<a href="https://www.linkedin.com/in/shanvi-kumari-6786a12a2/"><img src="https://img.shields.io/badge/LinkedIn-2D0A4E?style=for-the-badge&logo=linkedin&logoColor=F9A8D4" alt="LinkedIn"/></a>
+<a href="https://github.com/shanvi98?tab=repositories"><img src="https://img.shields.io/badge/all%20repos-2D0A4E?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="all repositories"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shanvi98.shanvi98&color=A855F7&style=for-the-badge" alt="Visitor Count"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## `>_` about me
+
+<img src="assets/player-card.svg" width="100%" alt="character sheet: shanvi — manipal university jaipur, b.tech cse class of 2028, aspiring ai/ml engineer"/>
+
+<details>
+<summary><sub>plain-text version</sub></summary>
 
 - 🎓 B.Tech CSE @ **Manipal University Jaipur**, Class of 2028
 - 🤖 building my way into an **AI/ML engineer** — one model, one bug, one coffee at a time
@@ -24,9 +32,16 @@
 - 🌸 soft aesthetic, sharp debugging skills — pastel outside, `print()` statements inside
 - 🌐 portfolio: under construction
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+</details>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## `>_` quest log
+
+<img src="assets/quest-log.svg" width="100%" alt="quest log — done: Internship Copilot Agent, HoopSense AI, this readme. open: land an ML/AI internship, clear backlog of games and books, world domination (soft launch)"/>
+
+<details>
+<summary><sub>plain-text version</sub></summary>
 
 ```
 [✓] Internship Copilot Agent — FastAPI + LLM resume matcher
@@ -37,7 +52,28 @@
 [ ] world domination (soft launch)
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+</details>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
+
+## `>_` featured builds
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/shanvi98/semantic-reconcillation-engine"><img src="assets/builds/semantic-reconcillation-engine.svg" width="100%" alt="semantic-reconcillation-engine"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/hybridrag"><img src="assets/builds/hybridrag.svg" width="100%" alt="hybridrag"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/shanvi98/Aeropulse-pipeline"><img src="assets/builds/Aeropulse-pipeline.svg" width="100%" alt="Aeropulse-pipeline"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/vireo_cx_tool1"><img src="assets/builds/vireo_cx_tool1.svg" width="100%" alt="vireo_cx_tool1"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/shanvi98/internship-copilot"><img src="assets/builds/internship-copilot.svg" width="100%" alt="internship-copilot"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/SIH"><img src="assets/builds/SIH.svg" width="100%" alt="SIH"/></a></td>
+</tr>
+</table>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## `>_` tech stack
 
@@ -78,20 +114,17 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## `>_` live stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shanvi98&show_icon=github&theme=jolly)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shanvi98&layout=compact&theme=jolly)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=shanvi98&show_icon=github&hide_border=true&bg_color=1A0533&title_color=F5E6FF&text_color=C084FC&icon_color=F9A8D4" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shanvi98&layout=compact&hide_border=true&bg_color=1A0533&title_color=F5E6FF&text_color=C084FC" alt="Top Langs" height="170"/>
 <br/>
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shanvi98&theme=jolly)](https://github.com/shanvi98/github-readme-stats-fast)
-</div>
-
-<div align="center">
 
 ### `>_` contribution snake
 
@@ -99,7 +132,7 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## `>_` snapshots
 
@@ -107,40 +140,17 @@
 
 <div align="center">
 <table>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%202.jpg" width="100%" style="border-radius: 12px;" alt="photo 1"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%203.jpg" width="100%" style="border-radius: 12px;" alt="photo 2"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original%202.jpg" width="100%" style="border-radius: 12px;" alt="photo 3"/>
-</td>
+<tr>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%202.jpg" width="100%" alt="photo 1"/></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-23_Original%203.jpg" width="100%" alt="photo 2"/></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original%202.jpg" width="100%" alt="photo 3"/></td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original.jpg" width="100%" style="border-radius: 12px;" alt="photo 4"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_3622_Original.JPG" width="100%" style="border-radius: 12px;" alt="photo 5"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_6780.jpeg" width="100%" style="border-radius: 12px;" alt="photo 6"/>
-</td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/2025-08-24_Original.jpg" width="100%" alt="photo 4"/></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_3622_Original.JPG" width="100%" alt="photo 5"/></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/shanvi98/shanvi98/main/IMG_6780.jpeg" width="100%" alt="photo 6"/></td>
 </tr>
 </table>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shanvi98.shanvi98&color=A855F7&style=for-the-badge)
-
-<br><br>
-
-<i>"powered by caffeine, curiosity, and a slightly unhinged commit history"</i>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:2D0A4E&height=100&section=footer" alt="footer"/>
+<img width="100%" src="assets/footer.svg" alt="powered by caffeine, curiosity, and a slightly unhinged commit history"/>
