@@ -65,11 +65,11 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/shanvi98/Aeropulse-pipeline"><img src="assets/build/Aeropulse-pipeline.svg" width="100%" alt="Aeropulse-pipeline"/></a></td>
-<td width="50%"><a href="https://github.com/shanvi98/vireo_cx_tool1"><img src="assets/builds/vireo_cx_tool1.svg" width="100%" alt="vireo_cx_tool1"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/vireo_cx_tool1"><img src="assets/build/vireo_cx_tool1.svg" width="100%" alt="vireo_cx_tool1"/></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/shanvi98/internship-copilot"><img src="assets/build/internship-copilot.svg" width="100%" alt="internship-copilot"/></a></td>
-<td width="50%"><a href="https://github.com/shanvi98/SIH"><img src="assets/builds/SIH.svg" width="100%" alt="SIH"/></a></td>
+<td width="50%"><a href="https://github.com/shanvi98/SIH"><img src="assets/build/SIH.svg" width="100%" alt="SIH"/></a></td>
 </tr>
 </table>
 
